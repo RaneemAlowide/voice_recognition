@@ -5,7 +5,7 @@ This is a speech recognition project.
 The project contains the following files:
 - html file
 - css file
-- js file --> to creat the voise recognition 
+- js file --> to creat the voice recognition 
 - php file --> to send data
 - images file --> containes: screen recording of how the project works , screenshots for the text saved in the database and the project page
 
